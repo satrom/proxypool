@@ -1,5 +1,5 @@
 # your domain
-domain: freeproxies.herokuapp.com
+domain: fpx.herokuapp.com
 port:                 # default 12580
 
 # source list file
