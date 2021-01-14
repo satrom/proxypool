@@ -6,8 +6,8 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
-
+    url: https://www.vtworay.com/modules/servers/V2raySocks/osubscribe.php?sid=5063&token=cG4CsQNoHcQs
+ 
 # 网页模糊抓取
 - type: webfuzz
   options:
@@ -28,7 +28,21 @@
 - type: clash
   options:
     url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
-
-# 某个网站抓取
-- type: web-freessrxyz
+ - type: clash
   options:
+    url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clashs.yaml
+- type: clash
+  options:
+    url: https://rss.cnrss.xyz/link/Zq1P3T2S91eAgqKm?mu=2
+- type: clash
+  options:
+    url: https://sub.cm/jbipvvO
+    - type: clash
+  options:
+    url: https://suo.yt/iIoJ1Pc
+- type: clash
+  options:
+    url: https://suo.yt/dPr0uJR
+    - type: clash
+  options:
+    url: https://suo.yt/qarTaop
