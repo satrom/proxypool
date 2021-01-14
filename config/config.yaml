@@ -17,7 +17,6 @@ source-files:
   - https://raw.githubusercontent.com/xnxy2012/proxypool/master/config/source.yaml
   - https://raw.githubusercontent.com/0x01x0/proxypool/master/config/source.yaml
   - https://raw.githubusercontent.com/1w3r5y7i9p/proxypool/master/config/source.yaml
-  - https://raw.githubusercontent.com/1w3r5y7i9p/proxypool/master/config/source.yaml
 
 # ======= 可选项，留空使用default值  =======
 
@@ -29,7 +28,7 @@ crawl-interval:       # v0.5.x default 60 (minutes)
 crontime:             # v0.4.x default 60 (minutes). Deprecated in the newest version
 
 # speed test
-speedtest: true      # default false. Warning: this will consume large network resources.
+speedtest: false      # default false. Warning: this will consume large network resources.
 speedtest-interval:   # default 720 (min)
 connection:           # default 5. The number of speed test connections simultaneously
 timeout:              # default 10 (seconds).
