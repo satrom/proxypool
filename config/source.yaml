@@ -1,48 +1,56 @@
 # 模糊抓取订阅链接
-- type: webfuzzsub
-  options:
-    url: https://raw.githubusercontent.com/du5/free/master/sub.list
+#- type: webfuzzsub
+#  options:
+#    url: https://raw.githubusercontent.com/du5/free/master/sub.list
+
+# 订阅链接
+#- type: subscribe
+#  options:
+#    url: https://www.vtworay.com/modules/servers/V2raySocks/osubscribe.php?sid=5063&token=cG4CsQNoHcQs
 
 # 订阅链接
 - type: subscribe
   options:
-    url: https://www.vtworay.com/modules/servers/V2raySocks/osubscribe.php?sid=5063&token=cG4CsQNoHcQs
- 
-# 网页模糊抓取
-- type: webfuzz
+    url: https://raw.githubusercontent.com/satrom/Parents/master/UpDate.txt
+- type: subscribe
   options:
-    url: https://merlinblog.xyz/wiki/freess.html
+    url: https://raw.githubusercontent.com/satrom/Parents/master/add.txt
+
+# 网页模糊抓取
+#- type: webfuzz
+#  options:
+#    url: https://merlinblog.xyz/wiki/freess.html
 
 # tg频道抓取
-- type: tgchannel
-  options:
-    channel: ssrList
-    num: 200
+#- type: tgchannel
+#  options:
+#    channel: ssrList
+#    num: 200
 
 # 翻墙党论坛抓取
-- type: web-fanqiangdang
-  options:
-    url: https://fanqiangdang.com/forum-48-1.html
+#- type: web-fanqiangdang
+#  options:
+#    url: https://fanqiangdang.com/forum-48-1.html
 
 # clash格式订阅链接
-- type: clash
-  options:
-    url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
- - type: clash
-  options:
-    url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clashs.yaml
-- type: clash
-  options:
-    url: https://rss.cnrss.xyz/link/Zq1P3T2S91eAgqKm?mu=2
-- type: clash
-  options:
-    url: https://sub.cm/jbipvvO
-    - type: clash
-  options:
-    url: https://suo.yt/iIoJ1Pc
-- type: clash
-  options:
-    url: https://suo.yt/dPr0uJR
-    - type: clash
-  options:
-    url: https://suo.yt/qarTaop
+#- type: clash
+#  options:
+#    url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
+# - type: clash
+#  options:
+#    url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clashs.yaml
+#- type: clash
+#  options:
+#    url: https://rss.cnrss.xyz/link/Zq1P3T2S91eAgqKm?mu=2
+#- type: clash
+#  options:
+#    url: https://sub.cm/jbipvvO
+#    - type: clash
+#  options:
+#    url: https://suo.yt/iIoJ1Pc
+#- type: clash
+#  options:
+#    url: https://suo.yt/dPr0uJR
+#- type: clash
+#  options:
+#    url: https://suo.yt/qarTaop
