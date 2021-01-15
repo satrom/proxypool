@@ -8,15 +8,15 @@ source-files:
   - ./config/source.yaml
   # use web file
   # - https://example.com/config/source.yaml
-  - https://raw.githubusercontent.com/Alex950808/proxypool038/master/config/source.yaml
-  - https://raw.githubusercontent.com/wishcaiji/proxypool/master/config/source.yaml
-  - https://raw.githubusercontent.com/money-fly/proxypool/master/config/source.yaml
-  - https://raw.githubusercontent.com/grxp/proxypool/master/config/source.yaml
-  - https://raw.githubusercontent.com/kukuyu488704/proxypool/master/config/source.yaml
-  - https://raw.githubusercontent.com/deyangyvtian/proxypool/master/config/source.yaml
-  - https://raw.githubusercontent.com/xnxy2012/proxypool/master/config/source.yaml
-  - https://raw.githubusercontent.com/0x01x0/proxypool/master/config/source.yaml
-  - https://raw.githubusercontent.com/1w3r5y7i9p/proxypool/master/config/source.yaml
+  #- https://raw.githubusercontent.com/Alex950808/proxypool038/master/config/source.yaml
+  #- https://raw.githubusercontent.com/wishcaiji/proxypool/master/config/source.yaml
+  #- https://raw.githubusercontent.com/money-fly/proxypool/master/config/source.yaml
+  #- https://raw.githubusercontent.com/grxp/proxypool/master/config/source.yaml
+  #- https://raw.githubusercontent.com/kukuyu488704/proxypool/master/config/source.yaml
+  #- https://raw.githubusercontent.com/deyangyvtian/proxypool/master/config/source.yaml
+  #- https://raw.githubusercontent.com/xnxy2012/proxypool/master/config/source.yaml
+  #- https://raw.githubusercontent.com/0x01x0/proxypool/master/config/source.yaml
+  #- https://raw.githubusercontent.com/1w3r5y7i9p/proxypool/master/config/source.yaml
 
 # ======= 可选项，留空使用default值  =======
 
