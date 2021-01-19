@@ -1,25 +1,22 @@
 # 模糊抓取订阅链接
 - type: webfuzzsub
   options:
-    url: https://raw.githubusercontent.com/du5/free/master/sub.list
+    url: 
 
 # 订阅链接
 - type: subscribe
   options:
-    url: https://www.vtworay.com/modules/servers/V2raySocks/osubscribe.php?sid=5063&token=cG4CsQNoHcQs
+    url: 
 
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/satrom/Parents/master/UpDate.txt
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/satrom/Parents/master/add.txt
+    url: 
 
 # 网页模糊抓取
 - type: webfuzz
   options:
-    url: https://merlinblog.xyz/wiki/freess.html
+    url: 
 
 # tg频道抓取
 - type: tgchannel
@@ -30,30 +27,54 @@
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
   options:
-    url: https://fanqiangdang.com/forum-48-1.html
+    url: 
 
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
- - type: clash
-  options:
-    url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clashs.yaml
+    url: https://wangxinxing.ml/clash/proxies
 - type: clash
   options:
-    url: https://rss.cnrss.xyz/link/Zq1P3T2S91eAgqKm?mu=2
+    url: https://proxy.moneyfly.club/clash/proxies
 - type: clash
   options:
-    url: https://sub.cm/jbipvvO
-    - type: clash
-  options:
-    url: https://suo.yt/iIoJ1Pc
+    url: https://pool-840979.asia1.kinto.io/clash/proxies
 - type: clash
   options:
-    url: https://suo.yt/dPr0uJR
+    url: https://0520.ml/clash/proxies
 - type: clash
   options:
-    url: https://suo.yt/qarTaop
-    - type: clash
+    url: https://jiedian.gooii.ml/clash/proxies
+- type: clash
   options:
-    url: http://r6d.cn/ab8VD
+    url: http://158.101.141.160/clash/proxies
+- type: clash
+  options:
+    url: https://pool.starts.sh/clash/proxies
+- type: clash
+  options:
+    url: https://alexproxy002.herokuapp.com/clash/proxies
+- type: clash
+  options:
+    url: https://proxypoolss.tk/clash/proxies
+- type: clash
+  options:
+    url: https://virmach.berkeley.team/clash/proxies
+- type: clash
+  options:
+    url: https://ss.dswang.ga/clash/proxies
+- type: clash
+  options:
+    url: https://proxypool.ga/clash/proxies
+- type: clash
+  options:
+    url: http://www.6166888.xyz/clash/proxies
+- type: clash
+  options:
+    url: https://sspool.herokuapp.com/clash/proxies
+- type: clash
+  options:
+    url: https://proxypoolsstest.herokuapp.com/clash/proxies
+- type: clash
+  options:
+    url: http://nffs.tk/clash/proxies
