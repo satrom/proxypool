@@ -77,4 +77,7 @@
     url: https://proxypoolsstest.herokuapp.com/clash/proxies
 - type: clash
   options:
+    url:https://github.com/lin1986lin/test1/blob/684c35acbb348eb36a9b991a0f703f00abf59622/source.yaml
+- type: clash
+  options:
     url: http://nffs.tk/clash/proxies
