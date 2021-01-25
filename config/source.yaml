@@ -2,6 +2,63 @@
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/du5/free/master/sub.list
+- type: webfuzzsub
+  options:
+    url: https://t.me/s/ssrv2taytgshare?before=743
+- type: webfuzzsub
+  options:
+    url: https://github.com/umelabs/node.umelabs.dev
+- type: webfuzzsub
+  options:
+    url: https://github.com/freefq/free
+- type: webfuzzsub
+  options:
+    url: https://github.com/oouxx/fqsub/blob/7f35b272888341f207acc10c92f1eb0be431e0e3/sub.list
+- type: webfuzzsub
+  options:
+    url: https://github.com/woytu/notes-vuepress/blob/757206d5c10d112d56a3c789d5a622d4bcfe6375/System/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F.md
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/oouxx/fqsub/master/sub.list
+- type: webfuzzsub
+  options:
+    url: https://github.com/doudoubinga/ceshi/blob/master/trash/base64-sub
+- type: webfuzzsub
+  options:
+    url: https://github.com/JACKUSR2089/v2ray-subscribed
+- type: webfuzzsub
+  options:
+    url: https://github.com/pojiezhiyuanjun/freev2
+- type: webfuzzsub
+  options:
+    url: https://lisondawang.tk/jiedianfenxiang.html
+- type: webfuzzsub
+  options:
+    url: http://proxypool.turinglabs.net/
+- type: webfuzzsub
+  options:
+    url: https://github.com/doudoubinga/ceshi/blob/27cd627f3467bcd88ab4a92f0c44baabc53c7e73/trash/base64-sub
+- type: webfuzzsub
+  options:
+    url: https://attachments-cdn.shimo.im/KTVdWd7ipTJtGqaa.txt
+- type: webfuzzsub
+  options:
+    url: https://uploader.shimo.im/f/w4fhn48OhKfxIcsA.txt?attname=tt.txt
+- type: webfuzzsub
+  options:
+    url: https://github.com/zmike1993/hello-world/wiki/SSR%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89
+- type: webfuzzsub
+  options:
+    url: https://i.sqeven.me/q/detail/100
+- type: webfuzzsub
+  options:
+    url: https://wechoice.ml/main.html
+- type: webfuzzsub
+  options:
+    url: https://github.com/wechoice/wechoice.github.io/blob/eb7f35b85fb2c676c16598b258a17e05adb82718/main.html
+- type: webfuzzsub
+  options:
+    url: https://github.com/oouxx/fqsub/blob/a89bfb7a1a4633d4952d46470dda8c851f2e15cf/sub.list
 
 # 订阅链接
 - type: subscribe
