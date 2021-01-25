@@ -1,3 +1,33 @@
+# 翻墙党，后面的东西都无需修改
+- type: web-fanqiangdang
+  options:
+    url: https://fanqiangdang.com/forum.php?mod=rss&fid=50&auth=0
+    num: 200
+- type: web-fanqiangdang
+  options:
+    url: https://fanqiangdang.com/forum.php?mod=rss&fid=2&auth=0
+    num: 200
+- type: web-fanqiangdang
+  options:
+    url: https://fanqiangdang.com/forum.php?mod=rss&fid=36&auth=0
+    num: 200
+- type: web-fanqiangdang
+  options:
+    url: https://fanqiangdang.com/forum.php?mod=rss&fid=51&auth=0
+    num: 200
+- type: web-fanqiangdan
+  options:
+    url: https://fanqiangdang.com/forum.php?mod=rss&fid=48&auth=0
+    num: 200
+- type: web-fanqiangdang
+  options:
+    url: https://fanqiangdang.com/forum-48-1.html
+
+# 某个网站抓取
+- type: web-freessrxyz
+  options:
+    url: https://lightyearapp.life/zh/free-vpn
+    
 # 模糊抓取订阅链接
 - type: webfuzzsub
   options:
@@ -60,11 +90,6 @@
   options:
     url: https://github.com/oouxx/fqsub/blob/a89bfb7a1a4633d4952d46470dda8c851f2e15cf/sub.list
 
-# 订阅链接
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
-
 # 网页模糊抓取
 - type: webfuzz
   options:
@@ -76,16 +101,12 @@
     channel: ssrList
     num: 200
 
-# 翻墙党论坛抓取
-- type: web-fanqiangdang
+# 订阅链接
+- type: subscribe
   options:
-    url: https://fanqiangdang.com/forum-48-1.html
-
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
+    
 # clash格式订阅链接
 - type: clash
   options:
     url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
-
-# 某个网站抓取
-- type: web-freessrxyz
-  options:
