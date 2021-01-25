@@ -1,5 +1,5 @@
 # your domain
-domain: fpxx.herokuapp.com
+domain: freedian.herokuapp.com
 port:                 # default 12580
 
 # source list file
