@@ -1,7 +1,7 @@
 # 模糊抓取订阅链接
 - type: webfuzzsub
   options:
-    url: 
+    url: https://raw.githubusercontent.com/du5/free/master/sub.list
 
 # 订阅链接
 - type: subscribe
