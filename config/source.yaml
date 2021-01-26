@@ -11,6 +11,24 @@
 # 网页模糊抓取
 - type: webfuzz
   options:
+    url: https://proxypoolss.tk
+- type: webfuzz
+  options:
+    url: https://proxypool.ga
+- type: webfuzz
+  options:
+    url: https://tro.zqwnan.tk
+- type: webfuzz
+  options:
+    url: https://proxypoolsstest.herokuapp.com
+- type: webfuzz
+  options:
+    url: http://proxypool.turinglabs.net
+- type: webfuzz
+  options:
+    url: https://bihai.cf
+- type: webfuzz
+  options:
     url:
 
 # tg频道抓取
@@ -25,6 +43,21 @@
     url: https://fanqiangdang.com/forum-48-1.html
 
 # clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxypoolss.tk/clash/proxies
+- type: clash
+  options:
+    url: https://proxypool.ga/clash/proxies
+- type: clash
+  options:
+    url: https://tro.zqwnan.tk/clash/proxies
+- type: clash
+  options:
+    url: https://proxypoolsstest.herokuapp.com/clash/proxies
+- type: clash
+  options:
+    url: https://bihai.cf/clash/proxies
 - type: clash
   options:
     url: 
