@@ -15,7 +15,10 @@
     url: https://suo.yt/5GVRs5Q
 - type: subscribe
   options:
-    url: https://suo.yt/kJVFBfy    
+    url: https://suo.yt/kJVFBfy
+- type: subscribe
+  options:
+    url: https://suo.yt/2JGjNjd    
     
 # 网页模糊抓取
 - type: webfuzz
