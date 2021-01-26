@@ -15,7 +15,7 @@ source-files:
   #- https://raw.githubusercontent.com/kukuyu488704/proxypool/master/config/source.yaml
   #- https://raw.githubusercontent.com/deyangyvtian/proxypool/master/config/source.yaml
   #- https://raw.githubusercontent.com/xnxy2012/proxypool/master/config/source.yaml
-  ##- https://raw.githubusercontent.com/0x01x0/proxypool/master/config/source.yaml
+  #- https://raw.githubusercontent.com/0x01x0/proxypool/master/config/source.yaml
   #- https://raw.githubusercontent.com/1w3r5y7i9p/proxypool/master/config/source.yaml
 
 # ======= 可选项，留空使用default值  =======
@@ -29,11 +29,11 @@ crontime:             # v0.4.x default 60 (minutes). Deprecated in the newest ve
 
 # speed test
 speedtest: true      # default false. Warning: this will consume large network resources.
-speedtest-interval: 60  # default 720 (min)
+speedtest-interval: 15  # default 720 (min)
 connection:           # default 5. The number of speed test connections simultaneously
 timeout:              # default 10 (seconds).
 ## active proxy speed test
-active-interval: 60   # default 60 (min)
+active-interval: 10   # default 60 (min)
 active-frequency:     # default 100 (requests per interval)
 active-max-number:    # default 100. If more than this number of active proxies, the extra will be deprecated by speed
 
