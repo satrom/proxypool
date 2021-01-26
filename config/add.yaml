@@ -1,10 +1,7 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://sub.qaq.wtf
-- type: subscribe
-  options:
-    url: https://suo.yt/2JGjNjd
+    url: 
 
 # tg频道抓取
 - type: tgchannel
@@ -23,7 +20,12 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
-- type: clash
+    url: 
+    
+ # 网页模糊抓取
+- type: webfuzz
   options:
-    url: https://suo.yt/0qFVM3Q
+    url: https://free-ss.site
+- type: webfuzz
+  options:
+    url: https://bihai.cf
