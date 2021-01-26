@@ -41,8 +41,11 @@
     url: https://free-ss.site
 - type: webfuzz
   options:
-    url: http://proxypool.turinglabs.net/
-
+    url: http://proxypool.turinglabs.net
+- type: webfuzz
+  options:
+    url: https://jiedian.faka77.tk
+    
 # tg频道抓取
 - type: tgchannel
   options:
@@ -78,6 +81,9 @@
 - type: clash
   options:
     url: https://bihai.cf/clash/proxies
+- type: clash
+  options:
+    url: https://jiedian.faka77.tk/clash/proxies    
 - type: clash
   options:
     url: https://suo.yt/q8R3pPI
