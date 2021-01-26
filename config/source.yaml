@@ -39,9 +39,9 @@
 - type: webfuzz
   options:
     url: http://proxypool.turinglabs.net
-- type: webfuzz
-  options:
-    url: https://bihai.cf
+#- type: webfuzz
+#  options:
+#    url: https://bihai.cf
 - type: webfuzz
   options:
     url: https://free-ss.site
@@ -84,9 +84,9 @@
 - type: clash
   options:
     url: https://proxypoolsstest.herokuapp.com/clash/proxies
-- type: clash
-  options:
-    url: https://bihai.cf/clash/proxies
+#- type: clash
+#  options:
+#    url: https://bihai.cf/clash/proxies
 - type: clash
   options:
     url: https://jiedian.faka77.tk/clash/proxies    
