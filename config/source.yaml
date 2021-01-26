@@ -18,7 +18,10 @@
     url: https://suo.yt/kJVFBfy
 - type: subscribe
   options:
-    url: https://suo.yt/2JGjNjd    
+    url: https://suo.yt/2JGjNjd
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/satrom/V2SSR/master/1.txt
     
 # 网页模糊抓取
 - type: webfuzz
