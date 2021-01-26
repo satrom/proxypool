@@ -7,7 +7,7 @@ source-files:
   # use local file
   - ./config/source.yaml
   # use web file
-  - https://raw.githubusercontent.com/satrom/proxypool/master/config/add.yaml
+  #- https://raw.githubusercontent.com/satrom/proxypool/master/config/add.yaml
   #- https://raw.githubusercontent.com/Alex950808/proxypool038/master/config/source.yaml
   #- https://raw.githubusercontent.com/wishcaiji/proxypool/master/config/source.yaml
   #- https://raw.githubusercontent.com/money-fly/proxypool/master/config/source.yaml
@@ -29,7 +29,7 @@ crontime:             # v0.4.x default 60 (minutes). Deprecated in the newest ve
 
 # speed test
 speedtest: true      # default false. Warning: this will consume large network resources.
-speedtest-interval: 100  # default 720 (min)
+speedtest-interval: 60  # default 720 (min)
 connection:           # default 5. The number of speed test connections simultaneously
 timeout:              # default 10 (seconds).
 ## active proxy speed test
