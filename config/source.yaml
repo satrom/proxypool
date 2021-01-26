@@ -6,8 +6,17 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: 
-
+    url: https://sub.qaq.wtf/?c=1
+- type: subscribe
+  options:
+    url: https://t.me/sharecentre/1839
+- type: subscribe
+  options:
+    url: https://suo.yt/5GVRs5Q
+- type: subscribe
+  options:
+    url: https://suo.yt/kJVFBfy    
+    
 # 网页模糊抓取
 - type: webfuzz
   options:
@@ -30,11 +39,22 @@
 - type: webfuzz
   options:
     url: https://free-ss.site
+- type: webfuzz
+  options:
+    url: http://proxypool.turinglabs.net/
 
 # tg频道抓取
 - type: tgchannel
   options:
     channel: ssrList
+    num: 200
+- type: tgchannel
+  options:
+    channel: bhsghost
+    num: 200
+- type: tgchannel
+  options:
+    channel: fproxies
     num: 200
 
 # 翻墙党论坛抓取
@@ -60,7 +80,10 @@
     url: https://bihai.cf/clash/proxies
 - type: clash
   options:
-    url: 
+    url: https://suo.yt/q8R3pPI
+- type: clash
+  options:
+    url: https://suo.yt/T3yDlOs
 
 # 某个网站抓取
 - type: web-freessrxyz
