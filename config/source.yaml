@@ -6,51 +6,12 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://sub.qaq.wtf/?c=1
-- type: subscribe
-  options:
-    url: https://t.me/sharecentre/1839
-- type: subscribe
-  options:
-    url: https://suo.yt/5GVRs5Q
-- type: subscribe
-  options:
-    url: https://suo.yt/kJVFBfy
-- type: subscribe
-  options:
-    url: https://suo.yt/2JGjNjd
-- type: subscribe
-  options:
     url: https://raw.githubusercontent.com/satrom/V2SSR/master/1.txt
     
 # 网页模糊抓取
 - type: webfuzz
   options:
-    url: https://proxypoolss.tk
-- type: webfuzz
-  options:
-    url: https://proxypool.ga
-- type: webfuzz
-  options:
-    url: https://tro.zqwnan.tk
-- type: webfuzz
-  options:
-    url: https://proxypoolsstest.herokuapp.com
-- type: webfuzz
-  options:
-    url: http://proxypool.turinglabs.net
-#- type: webfuzz
-#  options:
-#    url: https://bihai.cf
-- type: webfuzz
-  options:
     url: https://free-ss.site
-- type: webfuzz
-  options:
-    url: http://proxypool.turinglabs.net
-- type: webfuzz
-  options:
-    url: https://jiedian.faka77.tk
     
 # tg频道抓取
 - type: tgchannel
@@ -65,7 +26,10 @@
   options:
     channel: fproxies
     num: 200
-
+- type: tgchannel
+  options:
+    channel: sharecentre
+    
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
   options:
@@ -74,28 +38,7 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://proxypoolss.tk/clash/proxies
-- type: clash
-  options:
-    url: https://proxypool.ga/clash/proxies
-- type: clash
-  options:
-    url: https://tro.zqwnan.tk/clash/proxies
-- type: clash
-  options:
-    url: https://proxypoolsstest.herokuapp.com/clash/proxies
-#- type: clash
-#  options:
-#    url: https://bihai.cf/clash/proxies
-- type: clash
-  options:
-    url: https://jiedian.faka77.tk/clash/proxies    
-- type: clash
-  options:
-    url: https://suo.yt/q8R3pPI
-- type: clash
-  options:
-    url: https://suo.yt/T3yDlOs
+    url: https://ss.dswang.ga:8443  
 
 # 某个网站抓取
 - type: web-freessrxyz
