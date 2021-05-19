@@ -16,15 +16,11 @@
 # tg频道抓取
 - type: tgchannel
   options:
-    channel: ssrList
+    channel: ssrlists
     num: 200
 - type: tgchannel
   options:
     channel: bhsghost
-    num: 200
-- type: tgchannel
-  options:
-    channel: fproxies
     num: 200
 - type: tgchannel
   options:
@@ -37,9 +33,9 @@
 #    url: https://fanqiangdang.com/forum-48-1.html
 
 # clash格式订阅链接
-#- type: clash
-#  options:
-#    url: https://ss.dswang.ga:8443
+- type: clash
+  options:
+    url: https://ss.dswang.ga:8443
 
 # 某个网站抓取
 #- type: web-freessrxyz
