@@ -20,13 +20,17 @@
     num: 200
 - type: tgchannel
   options:
+    channel: ssrsub
+    num: 200    
+- type: tgchannel
+  options:
     channel: bhsghost
     num: 200
 - type: tgchannel
   options:
     channel: sharecentre
     num: 200
-    
+
 # 翻墙党论坛抓取
 #- type: web-fanqiangdang
 #  options:
