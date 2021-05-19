@@ -1,17 +1,12 @@
 # 模糊抓取订阅链接
-#- type: webfuzzsub
-#  options:
-#    url: https://raw.githubusercontent.com/du5/free/master/sub.list
-
-# 订阅链接
-#- type: subscribe
-#  options:
-#    url: https://raw.githubusercontent.com/satrom/V2SSR/master/1.txt
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/du5/free/master/sub.list
     
 # 网页模糊抓取
-#- type: webfuzz
-#  options:
-#    url: https://free-ss.site
+- type: webfuzz
+  options:
+    url: https://free-ss.site
     
 # tg频道抓取
 - type: tgchannel
@@ -32,9 +27,9 @@
     num: 200
 
 # 翻墙党论坛抓取
-#- type: web-fanqiangdang
-#  options:
-#    url: https://fanqiangdang.com/forum-48-1.html
+- type: web-fanqiangdang
+  options:
+    url: https://fanqiangdang.com/forum-48-1.html
 
 # clash格式订阅链接
 - type: clash
