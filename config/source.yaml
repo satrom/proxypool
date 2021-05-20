@@ -1,7 +1,7 @@
 # 模糊抓取订阅链接
-#- type: webfuzzsub
-#  options:
-#    url: https://raw.githubusercontent.com/du5/free/master/sub.list
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/du5/free/master/sub.list
 - type: webfuzzsub
   options:
     url: https://gitee.com/proxypools/sub/raw/branch/main/ss/ss.txt
@@ -69,9 +69,9 @@
     num: 200
 
 # 翻墙党论坛抓取
-#- type: web-fanqiangdang
-#  options:
-#    url: https://fanqiangdang.com/forum-48-1.html
+- type: web-fanqiangdang
+  options:
+    url: https://fanqiangdang.com/forum-48-1.html
 
 # clash格式订阅链接
 - type: clash
