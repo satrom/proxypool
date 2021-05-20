@@ -16,7 +16,37 @@
 - type: subscribe
   options:
     url: https://fzusrs.xyz//link/tOHiqgwTT7OkFiDR?sub=3&extend=1
-    
+- type: subscribe
+  options:
+    url: https://gitee.com/proxypools/sub/raw/main/clash/clash.yaml
+- type: subscribe
+  options:
+    url: https://gitee.com/proxypools/sub/raw/main/clash/clashs.yaml
+- type: subscribe
+  options:
+    url: https://gitee.com/proxypools/sub/raw/main/clash/clashr.yaml
+- type: subscribe
+  options:
+    url: https://gitee.com/proxypools/sub/raw/main/qx/qx.yaml
+- type: subscribe
+  options:
+    url: https://gitee.com/proxypools/sub/raw/main/qx/q.yaml
+- type: subscribe
+  options:
+    url: https://gitee.com/proxypools/sub/raw/main/loon/loon.yaml
+- type: subscribe
+  options:
+    url: https://gitee.com/proxypools/sub/raw/main/sb/sb.yaml
+- type: subscribe
+  options:
+    url: https://gitee.com/proxypools/sub/raw/main/surge/2.yaml
+- type: subscribe
+  options:
+    url: https://gitee.com/proxypools/sub/raw/main/surge/3.yaml
+- type: subscribe
+  options:
+    url: https://gitee.com/proxypools/sub/raw/main/surge/4.yaml 
+
 # 网页模糊抓取
 #- type: webfuzz
 #  options:
