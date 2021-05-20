@@ -11,7 +11,40 @@
 - type: webfuzzsub
   options:
     url: https://gitee.com/proxypools/sub/raw/main/vmess/vs.txt    
-                
+- type: webfuzzsub
+  options:
+    url: https://fzusrs.xyz//link/tOHiqgwTT7OkFiDR?sub=3&extend=1
+- type: webfuzzsub
+  options:
+    url: https://gitee.com/proxypools/sub/raw/main/clash/clash.yaml
+ - type: webfuzzsub
+  options:
+    url: https://gitee.com/proxypools/sub/raw/main/clash/clashs.yaml
+- type: webfuzzsub
+  options:
+    url: https://gitee.com/proxypools/sub/raw/main/clash/clashr.yaml
+ - type: webfuzzsubh
+  options:
+    url: https://gitee.com/proxypools/sub/raw/main/qx/qx.yaml
+ - type: webfuzzsub
+  options:
+    url: https://gitee.com/proxypools/sub/raw/main/qx/q.yaml
+ - type: webfuzzsub
+  options:
+    url: https://gitee.com/proxypools/sub/raw/main/loon/loon.yaml
+ - type: webfuzzsub
+  options:
+    url: https://gitee.com/proxypools/sub/raw/main/sb/sb.yaml
+ - type: webfuzzsub
+  options:
+    url: https://gitee.com/proxypools/sub/raw/main/surge/2.yaml
+ - type: webfuzzsub
+  options:
+    url: https://gitee.com/proxypools/sub/raw/main/surge/3.yaml
+ - type: webfuzzsub
+  options:
+    url: https://gitee.com/proxypools/sub/raw/main/surge/4.yaml
+    
 # 网页模糊抓取
 - type: webfuzz
   options:
@@ -47,36 +80,6 @@
 - type: clash
   options:
     url: https://sub.cm/lwcgawT
-- type: clash
-  options:
-    url: https://gitee.com/proxypools/sub/raw/main/clash/clash.yaml
- - type: clash
-  options:
-    url: https://gitee.com/proxypools/sub/raw/main/clash/clashs.yaml
-- type: clash
-  options:
-    url: https://gitee.com/proxypools/sub/raw/main/clash/clashr.yaml
- - type: clash
-  options:
-    url: https://gitee.com/proxypools/sub/raw/main/qx/qx.yaml
- - type: clash
-  options:
-    url: https://gitee.com/proxypools/sub/raw/main/qx/q.yaml
- - type: clash
-  options:
-    url: https://gitee.com/proxypools/sub/raw/main/loon/loon.yaml
- - type: clash
-  options:
-    url: https://gitee.com/proxypools/sub/raw/main/sb/sb.yaml
- - type: clash
-  options:
-    url: https://gitee.com/proxypools/sub/raw/main/surge/2.yaml
- - type: clash
-  options:
-    url: https://gitee.com/proxypools/sub/raw/main/surge/3.yaml
- - type: clash
-  options:
-    url: https://gitee.com/proxypools/sub/raw/main/surge/4.yaml
   
 # 某个网站抓取
 #- type: web-freessrxyz
