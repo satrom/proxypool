@@ -6,7 +6,7 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/satrom/V2SSR/master/add.txt
+    url: https://raw.githubusercontent.com/satrom/V2SSR/master/link.txt
 
 # 网页模糊抓取
 #- type: webfuzz
